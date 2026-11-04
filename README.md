@@ -9,3 +9,9 @@ It doesnt make you use AI
 It doesnt steal your data
 
 and most importantly, it isn't expensive
+
+## Contributors
+
+<a href="https://github.com/ChowderWellington/CHPOW/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ChowderWellington/CHPOW" />
+</a>
