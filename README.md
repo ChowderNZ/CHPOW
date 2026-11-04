@@ -24,6 +24,6 @@ and most importantly, it isn't expensive
 
 ## Contributors
 
-<a href="https://github.com/ChowderWellington/CHPOW/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ChowderWellington/CHPOW" />
+<a href="https://github.com/ChowderNZ/CHPOW/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ChowderNZ/CHPOW" />
 </a>
