@@ -22,6 +22,10 @@ It doesnt steal your data
 
 and most importantly, it isn't expensive
 
+## Technical Notes
+
+It runs a reskinned version of KDE specifically made for good user interface
+
 ## Contributors
 
 <a href="https://github.com/ChowderNZ/CHPOW/graphs/contributors">
