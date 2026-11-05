@@ -24,7 +24,7 @@ and most importantly, it isn't expensive
 
 ## Technical Notes
 
-It runs a reskinned version of KDE specifically made for good user interface
+It runs a reskinned version of KDE specifically made for good user interface with [cubic](https://github.com/PJ-Singh-001/Cubic)
 
 ## Contributors
 
